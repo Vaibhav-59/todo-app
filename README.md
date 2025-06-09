@@ -1,3 +1,2 @@
 ## Deployment
-[Live Demo](mytodolist35.netlify.app
-)
+[Live Demo](https://mytodolist35.netlify.app/)
